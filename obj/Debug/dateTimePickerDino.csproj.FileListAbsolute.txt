@@ -1,0 +1,10 @@
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\obj\Debug\dateTimePickerDino.csproj.AssemblyReference.cache
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\obj\Debug\dateTimePickerDino.Form1.resources
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\obj\Debug\dateTimePickerDino.Properties.Resources.resources
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\obj\Debug\dateTimePickerDino.csproj.GenerateResource.cache
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\obj\Debug\dateTimePickerDino.csproj.CoreCompileInputs.cache
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\bin\Debug\dateTimePickerDino.exe.config
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\bin\Debug\dateTimePickerDino.exe
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\bin\Debug\dateTimePickerDino.pdb
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\obj\Debug\dateTimePickerDino.exe
+C:\Users\Gospodin\source\repos\dateTimePickerDino\dateTimePickerDino\obj\Debug\dateTimePickerDino.pdb
